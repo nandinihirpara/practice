@@ -11,7 +11,7 @@ int main()
         {
             if (i == j || j == (t - i + 1))
             {
-                printf("*");
+                printf(" *");
             }
             else
             {
@@ -21,4 +21,4 @@ int main()
         printf("\n");
     }
     return 0;
-}
+};
